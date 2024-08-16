@@ -1,0 +1,26 @@
+/* src/components/MovieDetails.css */
+
+.movie-details {
+    display: flex;
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .movie-details img {
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .movie-info {
+    max-width: 600px;
+  }
+  
+  .movie-info h1 {
+    margin-bottom: 10px;
+  }
+  
+  .movie-info p {
+    margin: 5px 0;
+  }
+  
