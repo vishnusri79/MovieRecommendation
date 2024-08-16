@@ -57,3 +57,11 @@ Routing: react-router-dom
 State Management: useState, useContext (for authentication)
 Styling: CSS modules, Flexbox for layout, animations for movie cards
 Backend: TMDB API for fetching movie data, Firebase for user authentication
+![image](https://github.com/user-attachments/assets/07b75cb9-22ea-40bd-95d0-dda9ca9d9914)
+![image](https://github.com/user-attachments/assets/1a459c48-2a57-4a5a-baa0-92f11369c5c4)
+![image](https://github.com/user-attachments/assets/18a2ce0f-93a2-4915-862d-6e51c48a5770)
+![image](https://github.com/user-attachments/assets/7b3c25ee-2692-4932-87da-335ce23c58b8)
+
+
+
+
